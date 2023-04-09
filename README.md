@@ -4,7 +4,7 @@ https://miro.com/welcomeonboard/REt3NFp5VHBQYW8zbkxGODRnVXN0UFRrTEd1cFJyYmNEWUh4
 
 # Прототип UI:
 
-(Figma)[https://www.figma.com/file/DIsqK9Rfiv6uf8UVLpA0iv/IOT?node-id=0%3A1&t=8wCFyG63Lh2PcVRO-1]
+[Figma](https://www.figma.com/file/DIsqK9Rfiv6uf8UVLpA0iv/IOT?node-id=0%3A1&t=8wCFyG63Lh2PcVRO-1)
 
 Андрей Юрин, Степан Кашин, Алексей Афанасьев
 
