@@ -10,7 +10,7 @@ https://miro.com/welcomeonboard/REt3NFp5VHBQYW8zbkxGODRnVXN0UFRrTEd1cFJyYmNEWUh4
 
 ## Проектирование БД, анализ с т.з. ООП:
 
-Никита Кудинов, Михаил Крисеев
+Никита Кудинов, Михаил Крисеев, Андрей Юрин
 
 ## Прототип устройства:
 
