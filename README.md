@@ -13,5 +13,5 @@ https://miro.com/welcomeonboard/REt3NFp5VHBQYW8zbkxGODRnVXN0UFRrTEd1cFJyYmNEWUh4
 Никита Кудинов, Михаил Крисеев, Андрей Юрин
 
 ## Прототип устройства:
-
+(виртуальный. Если успеем, то реальный)
 Крисеев Михаил
