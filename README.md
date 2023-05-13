@@ -16,7 +16,6 @@ https://miro.com/welcomeonboard/REt3NFp5VHBQYW8zbkxGODRnVXN0UFRrTEd1cFJyYmNEWUh4
 
 Кудинов Никита
 
-## Прототип устройства:
-(виртуальный. Если успеем, то реальный)
+## Прототип устройства в Node-Red:
 
 Кудинов Никита, Крисеев Михаил
