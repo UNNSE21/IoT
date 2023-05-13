@@ -15,4 +15,4 @@ https://miro.com/welcomeonboard/REt3NFp5VHBQYW8zbkxGODRnVXN0UFRrTEd1cFJyYmNEWUh4
 ## Прототип устройства:
 (виртуальный. Если успеем, то реальный)
 
-Крисеев Михаил
+Кудинов Никита, Крисеев Михаил
