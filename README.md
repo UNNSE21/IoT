@@ -12,7 +12,7 @@ https://miro.com/welcomeonboard/REt3NFp5VHBQYW8zbkxGODRnVXN0UFRrTEd1cFJyYmNEWUh4
 
 Михаил Крисеев, Никита Кудинов, Андрей Юрин
 
-Разработка бэкэнда:
+## Разработка бэкэнда:
 
 Кудинов Никита
 
