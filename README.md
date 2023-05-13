@@ -19,3 +19,5 @@ https://miro.com/welcomeonboard/REt3NFp5VHBQYW8zbkxGODRnVXN0UFRrTEd1cFJyYmNEWUh4
 ## Прототип устройства в Node-Red:
 
 Кудинов Никита, Крисеев Михаил
+
+[Wiki проекта](https://github.com/UNNSE21/IoT/wiki)
